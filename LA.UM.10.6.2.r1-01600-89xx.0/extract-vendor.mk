@@ -24,6 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib/libc2d30_bltlib.so:$(TARGET_COPY_OUT_VENDOR)/lib/libc2d30_bltlib.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib/libgsl.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgsl.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib/libllvm-glnext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libllvm-glnext.so \
+    vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib/vulkan.adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib/vulkan.adreno.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/egl/eglSubDriverAndroid.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/eglSubDriverAndroid.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/egl/libEGL_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libEGL_adreno.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/egl/libGLESv1_CM_adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/egl/libGLESv1_CM_adreno.so \
@@ -46,6 +47,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/libsdm-disp-vndapis.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdm-disp-vndapis.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/libsdmextension.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libsdmextension.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/libtinyxml2_1.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtinyxml2_1.so \
+    vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/vulkan.adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vulkan.adreno.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/vendor.display.color@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.color@1.0.so \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0/proprietary/vendor/lib64/vendor.display.postproc@1.0.so:$(TARGET_COPY_OUT_VENDOR)/lib64/vendor.display.postproc@1.0.so 
 
