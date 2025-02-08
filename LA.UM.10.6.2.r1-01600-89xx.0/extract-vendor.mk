@@ -6,5 +6,6 @@ PRODUCT_SOONG_NAMESPACES += \
     vendor/xiaomi/mititanium-common-graphics/LA.UM.10.6.2.r1-01600-89xx.0
 
 PRODUCT_COPY_FILES += \
+    
 
 PRODUCT_PACKAGES += \
